@@ -1,7 +1,7 @@
 #!/bin/bash
 declare -a network_health_check=()
 
-#info of server information
+#information of server information 
 server_info=()
 server_info+=("=== Server Information ===")
 server_info+=("Hostname: $(hostname)")
