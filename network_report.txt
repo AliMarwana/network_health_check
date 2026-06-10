@@ -1,1 +1,31 @@
-Report file of the network health check\n\n\n
+Report file of the network health check
+
+
+=== Server Information ===
+Hostname: DESKTOP-HED4MJF
+Current User: Gabera
+Date and Time: Wed Jun 10 15:03:29 WCAST 2026
+
+
+=== Network Information ===
+IP Address:    
+Default Gateway: 
+DNS Server(s): fec0:0:0:ffff::1
+
+
+=== Check Internet Connectivity ===
+Internet Connectivity: UP
+
+
+=== DNS resolution ===
+DNS resolution failed
+
+
+
+=== Website availability ===
+github.com : UP 
+google.com : UP 
+amazon.com : UP 
+
+
+
