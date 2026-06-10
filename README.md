@@ -17,12 +17,12 @@ Once the program is run, we see the server information, network information, Int
 Step 3: Retrieve the generated report file<br>
 The generated report file is in the same directory of network_health_check.sh. It contains all what was mentioned.<br>
 <div align="center">
-  <img src="place_of_content.png"  width="600"/>
+  <img src="./place.png"  width="600"/>
   <br/>
   <em>Figure 3: place of network_report_file </em>
 </div>
 <div align="center">
-  <img src="content_of_file.png"  width="600"/>
+  <img src="./content.png"  width="600"/>
   <br/>
   <em>Figure 4: Content of network_report_file </em>
 </div>
